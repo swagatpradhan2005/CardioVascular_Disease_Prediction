@@ -5,6 +5,19 @@ A machine learning pipeline to detect and predict the risk of cardiovascular dis
 
 ---
 
+##  App Preview
+
+> Interactive web dashboard built on the *Kaggle Cardiovascular Disease Dataset* — 70,000 patient records analyzed by 5 ML algorithms to deliver fast, accurate CVD risk detection.
+
+### CVD — AI-Powered Heart Health Assessment
+<img width="1600" height="633" alt="WhatsApp Image 2026-04-19 at 12 26 37 PM" src="https://github.com/user-attachments/assets/b8070266-4191-4aa1-a7a8-e8adf6aff502" />
+
+### Patient Health Assessment Form
+<img width="1139" height="848" alt="WhatsApp Image 2026-04-19 at 12 26 37 PM (1)" src="https://github.com/user-attachments/assets/02a15a5b-47f3-4418-9527-86902567001e" />
+
+
+---
+
 ##  Problem Statement
 
 Cardiovascular disease is the leading cause of death globally. Early detection using patient data (age, blood pressure, cholesterol, etc.) can save lives. This project builds a robust ML classifier to predict CVD risk from clinical indicators with explainability built in.
